@@ -5,4 +5,4 @@
 [discretax](https://github.com/camail-official/discretax) [![GitHub Repo stars](https://img.shields.io/github/stars/camail-official/discretax?style=social)](https://github.com/camail-official/discretax): state space models written in JAX.
 
 # Links
-Personal Website: [phnazari.github.io](https://phnazari.github.io)
+Personal website: [phnazari.github.io](https://phnazari.github.io)
